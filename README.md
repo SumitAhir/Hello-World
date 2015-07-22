@@ -1,2 +1,2 @@
 # Hello-World
-Just for Fun
+Just for fun
